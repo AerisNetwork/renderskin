@@ -1,4 +1,4 @@
-package skin
+package renderskin
 
 // Options is the options struct used by most all render methods.
 type Options struct {
